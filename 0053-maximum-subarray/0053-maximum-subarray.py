@@ -1,11 +1,9 @@
 class Solution:
     def maxSubArray(self, nums: list[int]) -> int:
-        curr = best = nums[0]
-
+        # kadane's algorithm
+        current = nums[0]
+        maximum = nums[0]
         for x in nums[1:]:
-
-            curr = max(x, curr + x)
-
-            best = max(best, curr)
-
-        return best
+            current = max(x,current+x)
+            maximum = max(maximum,current)
+        return maximum
