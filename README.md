@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0053-maximum-subarray/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
