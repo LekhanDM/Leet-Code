@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
