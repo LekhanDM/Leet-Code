@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
