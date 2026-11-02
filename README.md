@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0011-container-with-most-water/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
