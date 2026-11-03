@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack
@@ -153,11 +156,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0229-majority-element-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,4 +197,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0056-merge-intervals/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
