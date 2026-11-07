@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1046-last-stone-weight](https://github.com/LekhanDM/Lekhan-D-M/tree/main/1046-last-stone-weight/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/LekhanDM/Lekhan-D-M/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2540-minimum-common-value](https://github.com/LekhanDM/Lekhan-D-M/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LekhanDM/Lekhan-D-M/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/LekhanDM/Lekhan-D-M/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
